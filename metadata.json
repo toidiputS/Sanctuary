@@ -1,0 +1,6 @@
+{
+  "name": "Daily Sanctuary",
+  "description": "A comforting, serene sanctuary dashboard for daily status check-ins, recovery attendance tracking, and court compliance monitoring.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
